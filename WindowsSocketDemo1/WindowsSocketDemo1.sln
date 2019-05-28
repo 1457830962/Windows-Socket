@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsSocketDemo1", "WindowsSocketDemo1\WindowsSocketDemo1.vcxproj", "{2C744BC4-82D6-42C3-A973-C246B8EBC025}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsSocketDemo2", "WindowsSocketDemo2\WindowsSocketDemo2.vcxproj", "{CC03BD27-060E-4EC6-BEDD-96A2BE6AE8ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2C744BC4-82D6-42C3-A973-C246B8EBC025}.Debug|Win32.Build.0 = Debug|Win32
 		{2C744BC4-82D6-42C3-A973-C246B8EBC025}.Release|Win32.ActiveCfg = Release|Win32
 		{2C744BC4-82D6-42C3-A973-C246B8EBC025}.Release|Win32.Build.0 = Release|Win32
+		{CC03BD27-060E-4EC6-BEDD-96A2BE6AE8ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC03BD27-060E-4EC6-BEDD-96A2BE6AE8ED}.Debug|Win32.Build.0 = Debug|Win32
+		{CC03BD27-060E-4EC6-BEDD-96A2BE6AE8ED}.Release|Win32.ActiveCfg = Release|Win32
+		{CC03BD27-060E-4EC6-BEDD-96A2BE6AE8ED}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
